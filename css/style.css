@@ -37,21 +37,27 @@ p{
 .intro{
     text-align: center;
     background-color: #dddddd;
-    height: 950px;
+    height: 100vh;
 }
 
 .intro-pic{
     float: left;
-    position: relative;
-    left: 200px;
-    top: 200px;
+    padding: 15% 4% 0 15%;
 }
 
-.intro-content{
+.intro-content1{
+    padding: 24% 15% 0% 4%;
     color: #852847;
-    position: relative;
-    top: 300px;
-    font-size: 300%;
+}
+
+.intro-content2{
+    padding: 2% 15% 0% 4%;
+    color: #852847;
+}
+
+.intro-content3{
+    padding: 2% 15% 0% 4%;
+    color: #852847;
 }
 
 .my-skills{
